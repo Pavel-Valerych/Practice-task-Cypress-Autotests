@@ -1,4 +1,4 @@
-import LoginPage from 'C:/Users/pkhorenzhenko/demo_project/cypress/cypress/pages/LoginPage.po'    
+import LoginPage from '../pages/LoginPage.po'    
 
 describe ('Login testing', () => {
     //Tests for Desktop resolution
